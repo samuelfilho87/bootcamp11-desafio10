@@ -23,6 +23,38 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Teste",
+      "price": "29.90",
+      "description": "Teste add",
+      "id": 4,
+      "available": true
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Teste 2 editado",
+      "price": "39.9",
+      "description": "Teste add 2 available true",
+      "id": 5,
+      "available": false
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Teste 3 Editado",
+      "price": "15.90",
+      "description": "Test list after update a food",
+      "id": 6,
+      "available": true
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Teste 4",
+      "price": "19.90",
+      "description": "Test 4",
+      "available": true,
+      "id": 7
     }
   ]
 }
