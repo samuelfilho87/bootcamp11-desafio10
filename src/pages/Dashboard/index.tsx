@@ -50,7 +50,6 @@ const Dashboard: React.FC = () => {
   async function handleUpdateFood(
     food: Omit<IFoodPlate, 'id' | 'available'>,
   ): Promise<void> {
-    console.log(editingFood.available);
     const response = await api.put(`/foods/${editingFood.id}`, {
       ...food,
       id: editingFood.id,
